@@ -1,0 +1,14 @@
+.banner{
+    background: url(../img/R.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 300px;
+}
+.icon-box{
+    text-align: center;
+}
+.about{
+    background: url(../img/about.jpg) center no-repeat;
+    min-height: 500px;
+}
